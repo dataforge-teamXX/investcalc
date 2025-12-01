@@ -1,0 +1,22 @@
+investcalc/
+│
+├── docs/
+│   ├── domain.md
+│   ├── problem.md
+│   ├── scenarios.md
+│   └── architecture.md
+│
+├── data/
+│   ├── input-local.json
+│   ├── input-cloud.json
+│   └── samples/
+│
+├── src/
+│   ├── api/
+│   ├── services/
+│   └── models/
+│
+├── tests/
+├── docker/
+├── .gitignore
+└── README.md
