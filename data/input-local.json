@@ -1,6 +1,9 @@
-CAPEX 40000000
-OPEX 20000000
-Обучение 200000
-Период анализа 7
-Экономия 15000000
-Рост доходов 15000000
+{
+  "projectName": "CRM для отдела продаж",
+  "capex": 500000,
+  "opex": 120000,
+  "trainingCosts": 80000,
+  "periodYears": 3,
+  "expectedSavingsPerYear": 300000,
+  "expectedRevenueGrowthPerYear": 200000
+}
